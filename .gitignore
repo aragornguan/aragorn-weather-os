@@ -1,0 +1,13 @@
+# Generated assets (can be regenerated)
+world-texture.js
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp/test files
+dc_test.txt
+embed_done.txt
+run_embed.vbs
+test_write.vbs
